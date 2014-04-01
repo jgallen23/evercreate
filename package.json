@@ -1,0 +1,27 @@
+{
+  "name": "evercreate",
+  "version": "0.0.1",
+  "description": "Cli to create evernote notes and reminders",
+  "main": "index.js",
+  "bin": {
+    "evercreate": "bin/evercreate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jgallen23/evercreate.git"
+  },
+  "keywords": [
+    "evernote",
+    "cli"
+  ],
+  "author": "Greg Allen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jgallen23/evercreate/issues"
+  },
+  "homepage": "https://github.com/jgallen23/evercreate",
+  "dependencies": {
+    "evernote": "^1.25.2",
+    "minimist": "0.0.8"
+  }
+}
