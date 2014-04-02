@@ -1,6 +1,6 @@
 {
   "name": "evercreate",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Cli to create evernote notes and reminders",
   "main": "index.js",
   "bin": {
