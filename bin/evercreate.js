@@ -1,4 +1,4 @@
-
+#!/usr/bin/env node
 var parseArgs = require('minimist');
 var everCreate = require('../');
 
