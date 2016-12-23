@@ -22,6 +22,6 @@
   "homepage": "https://github.com/jgallen23/evercreate",
   "dependencies": {
     "evernote": "^1.25.2",
-    "minimist": "0.0.8"
+    "minimist": "1.2.0"
   }
 }
